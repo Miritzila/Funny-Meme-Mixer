@@ -1,1 +1,6 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+#excusa {
+  font-size: 30px;
+  padding: 50px;
+}
